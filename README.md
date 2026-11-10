@@ -214,4 +214,4 @@ Mini Dogfight is offered as a full free version, including all features and upda
 Download Mini Dogfight today and take to the skies for an unforgettable aerial adventure!
 
 ---
-**Last updated:** 2026-11-10 18:26:13 UTC
+**Last updated:** 2026-11-10 23:52:26 UTC
